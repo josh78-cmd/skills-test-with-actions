@@ -1,4 +1,4 @@
-name: Step 1, Add a test workflow
+name: ci.yml
 
 # This step triggers after push to the ci.yml file on the ci branch.
 # This workflow updates from step 1 to step 2.
